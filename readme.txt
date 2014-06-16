@@ -6,3 +6,4 @@ My stupid boss still like SVN.
 Creating a new branch is quick AND simple.
 Add merge
 breaking the present work
+add coding utf-8
